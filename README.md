@@ -1,5 +1,7 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
-## Aim
+## Aim:
+## NAME : MAGESH BOOPATHI.M
+## DATE : 212224230145
 To write a Python program using OpenCV to perform histogram equalization on both grayscale and color images to enhance image contrast and brightness.
 
 ### The program performs the following operations:
@@ -28,7 +30,7 @@ Jupyter Notebook / VS Code
 OpenCV (cv2)
 NumPy
 Matplotlib
-# Algorithm
+# Algorithm:
 ## Step 1:
 Import the required libraries: OpenCV, NumPy, and Matplotlib.
 
@@ -62,7 +64,7 @@ Merge the channels and convert the image back to BGR format.
 ## Step 11:
 Display original color image, histogram, enhanced image, and enhanced histogram using a 2 × 2 grid.
 
-## Output
+## Output:
 #### Grayscale Histogram Equalization
   1.	Original grayscale image is displayed
   2.	Histogram of original grayscale image is plotted
@@ -74,5 +76,5 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
   3.	Enhanced image after HSV-based equalization is displayed
   4.	Histogram of enhanced image shows better intensity distribution
 
-## Result
+## Result:
 Thus, histogram equalization is successfully performed on both grayscale and color images using OpenCV. The contrast and brightness of the images are significantly improved, enhancing visual quality and feature visibility.
